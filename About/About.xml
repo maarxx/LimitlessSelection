@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>LimitlessSelection</name>
+  <author>Maarx</author>
+  <url>https://github.com/maarxx/LimitlessSelection/</url>
+  <targetVersion>0.16.1393</targetVersion>
+  <description>Removes the limit of selecting only 80 things at a time.</description>
+</ModMetaData>
