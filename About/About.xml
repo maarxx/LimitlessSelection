@@ -4,5 +4,5 @@
   <author>Maarx</author>
   <url>https://github.com/maarxx/LimitlessSelection/</url>
   <targetVersion>0.16.1393</targetVersion>
-  <description>Removes the limit of selecting only 80 things at a time.</description>
+  <description>Removes the limit of only selecting 80 things at a time.</description>
 </ModMetaData>
