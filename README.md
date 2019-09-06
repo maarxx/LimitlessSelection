@@ -4,6 +4,10 @@ This is a mod for the game RimWorld by Ludeon Studios.
 
 It removes the limit of only selecting 80 things at a time.
 
+# DEPRECATED
+
+There are lots of other mods that do this now. I am not intending to maintain this one.
+
 # Table of Contents
 
 * [Introduction and Explanation](#introduction-and-explanation)
