@@ -2,41 +2,22 @@
 
 This is a mod for the game RimWorld by Ludeon Studios.
 
-It removes the limit of only selecting 80 things at a time.
-
-# DEPRECATED
-
-There are lots of other mods that do this now. I am not intending to maintain this one.
+It completely removes the limit of how many things you can select at one time.
 
 # Table of Contents
 
 * [Introduction and Explanation](#introduction-and-explanation)
-* [Specific Additional Features](#specific-additional-features)
 * [How to Install](#how-to-install)
 * [How to Update](#how-to-update)
 * [Bugs, New Features, and Updates](#bugs-new-features-and-updates)
 
 # Introduction and Explanation
 
-[![](http://i.imgur.com/9L4f8u7.png)](https://ludeon.com/forums/index.php?topic=28066.0) **IMPORTANT: This mod requires HugsLibs to be loaded before it.**
+You'll add the mod. You'll enable the mod. It'll just work.
 
-You'll add the mod. You'll enable the mod. It'll just work. If you don't like it, disable the mod.
-
-While the mod is enabled, you will not be limited to only selecting 80 things at a time.
+While the mod is enabled, you will not be limited to only selecting 80/200 things at a time.
 
 This behavior should propagate to all selection mechanisms, such as double-clicking to select all things of a type, or drag-selecting a box around your colonist bar.
-
-It should even propagate to other mods, for example, if using DefensivePositions, should propagate to pushing NumPadPeriod (.) to select all Colonists. (Assuming over 80 Colonists)
-
-**Technical Compatibility Note:**
-
-This mod uses HugsLib to detour one method: `Selector.Select(...)`
-
-This mod is therefore **incompatible** with any other mod which attempts to detour the same method.
-
-# Specific Additional Features
-
-None, as of yet.
 
 # How to Install
 
